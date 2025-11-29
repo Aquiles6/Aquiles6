@@ -1,5 +1,3 @@
-![](./profile-3d-contrib/profile-gitblock.svg)
-
 <h1 align="center">Guilherme</h1>
 <p align="center">
   Estudante do Ensino Médio · Estudante de Desenvolvimento
