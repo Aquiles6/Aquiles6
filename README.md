@@ -10,10 +10,9 @@
 ---
 
 ## Sobre
-- Tenho 16 anos
-- Estou no segundo ano do Ensino Médio
+- Tenho 17 anos
+- Estou no Terceiro ano do Ensino Médio
 - Faço ensino técnico na escola
-- Curso Desenvolvimento em JavaScript pelo SENAI
 
 ## Contato
 - LinkedIn: https://www.linkedin.com/in/guilherme-de-queiroz-aquino-122a82365/
